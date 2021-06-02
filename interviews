@@ -8,6 +8,7 @@ Again updated
  
  git commands :
  https://www.freecodecamp.org/news/git-cheat-sheet/
+ https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
  
 git config --global --unset user.name
 git config --global --unset user.email
