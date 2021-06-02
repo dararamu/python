@@ -5,3 +5,7 @@ https://github.com/ramlaxman/Python-Interview-Curriculum
 
 Again updated
  again
+ 
+ 
+git config --global --unset user.name
+git config --global --unset user.email
