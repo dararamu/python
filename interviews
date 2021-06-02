@@ -6,6 +6,8 @@ https://github.com/ramlaxman/Python-Interview-Curriculum
 Again updated
  again
  
+ git commands :
+ https://www.freecodecamp.org/news/git-cheat-sheet/
  
 git config --global --unset user.name
 git config --global --unset user.email
